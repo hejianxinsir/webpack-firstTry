@@ -1,6 +1,5 @@
 function fn(){
-	let a = 1
-	console.log(a)
+	console.log('方方的教程')
 }
 
 export default fn
