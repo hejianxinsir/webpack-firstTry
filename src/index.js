@@ -7,7 +7,7 @@ module1()
 function component() {
   var element = j('<div></div>');
 
-  element.html(_.join(['hello', 'webpack'], ' '));
+  element.html(_.join(['what', 'webpack'], ' '));
   return element.get(0);
 }
 
